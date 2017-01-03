@@ -1,4 +1,4 @@
-# CS 1530 - Fall 2016
+# CS 1530 - Spring 2017
 Software Engineering
 
 ## Course Information
@@ -59,7 +59,7 @@ Score  | Grade
 63.99-61.00  | D-
 60.99-0.00   | F
 
-All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.  Projects will be analyzed with the Stanford _moss_ system to detect unauthorized collaboration between groups.
+All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.  Projects may be analyzed with the Stanford _moss_ system to detect unauthorized collaboration between groups.
 
 However, any student caught collaborating or cheating on an exam will automatically receive a 0 (zero) for that exam, and may be penalized more harshly based on University of Pittsburgh academic policy.
 
