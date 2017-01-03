@@ -153,6 +153,8 @@ Note that this syllabus is subject to change, but we will cover all of these top
   * Conventions and Abstractions
   * Continuous Improvement
 
+### Class 2 - Guest Lecture
+
 ## WEEK 15 (10 and 12 Apr)
 
 ### Class 1 - Trade-Offs in Software Engineering
