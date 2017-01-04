@@ -15,6 +15,8 @@ Software Engineering
 
 **Room:** SENSQ 6110
 
+**TA:** Adam Hobaugh
+
 **Class GitHub repo:** [https://www.github.com/laboon/cs1530_Spring2017](https://www.github.com/laboon/CS1530_Spring2017)  
 
 **Required Texts:** 
