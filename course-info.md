@@ -12,7 +12,8 @@ Software Engineering
   * ...or by appointment.  
 
 **Class Time:** MW 9:30 AM - 10:45 PM
-**Room:** SENSQ 5129
+
+**Room:** SENSQ 6110
 
 **Class GitHub repo:** [https://www.github.com/laboon/cs1530_Fall2016](https://www.github.com/laboon/CS1530_Spring2017)  
 
