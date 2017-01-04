@@ -15,7 +15,7 @@ Software Engineering
 
 **Room:** SENSQ 6110
 
-**Class GitHub repo:** [https://www.github.com/laboon/cs1530_Fall2016](https://www.github.com/laboon/CS1530_Spring2017)  
+**Class GitHub repo:** [https://www.github.com/laboon/cs1530_Spring2017](https://www.github.com/laboon/CS1530_Spring2017)  
 
 **Required Texts:** 
   * Growing Object-Oriented Software, Guided by Tests.  Authors: Steve Freeman and Nat Pryce. ISBN 9780321503626
