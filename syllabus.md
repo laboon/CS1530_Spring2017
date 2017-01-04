@@ -153,7 +153,8 @@ Note that this syllabus is subject to change, but we will cover all of these top
   * Conventions and Abstractions
   * Continuous Improvement
 
-### Class 2 - Guest Lecture
+### Class 2 - Fiat Voluntas Tua: Understanding The Command Line
+  * EXERCISE: Unix commands
 
 ## WEEK 15 (10 and 12 Apr)
 
