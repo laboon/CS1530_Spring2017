@@ -175,5 +175,5 @@ Note that this syllabus is subject to change, but we will cover all of these top
   * END OF SPRINT 6; END OF PROJECT!
 
 ### Class 2 - Project Presentations, cont'd.
-  * If there is time - review for the second mid-term
+
 
