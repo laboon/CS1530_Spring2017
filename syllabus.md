@@ -164,15 +164,16 @@ Note that this syllabus is subject to change, but we will cover all of these top
   * Examples - Apollo Guidance Computer, Adding Metrics to Web Application
   * EXERCISE: Trade-off Discussion
 
-### Class 2 - Project Presentation
+### Class 2
+#### __MIDTERM__
+
+## WEEK 16 (17 and 19 Apr)
+
+### Class 1 - Project Presentation
   * Each group will present their project to the rest of the class
   * You may go today or next class; will be assigned randomly
   * END OF SPRINT 6; END OF PROJECT!
 
-## WEEK 16 (17 and 19 Apr)
+### Class 2 - Project Presentations, cont'd.
 
-### Class 1 - Project Presentations, cont'd.
-  * If there is time - review for the second mid-term
 
-### Class 2
-#### __MIDTERM__
