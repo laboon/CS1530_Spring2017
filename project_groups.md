@@ -15,3 +15,13 @@ _We don't engineer software, software engineers us!_
 
 ----
 
+## The Dining Philosophers
+
+_//TODO Think of funny yet witty software motto_
+
+  * Nicholas Denu
+  * Brandon Torchia
+
+----
+
+
