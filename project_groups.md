@@ -41,5 +41,10 @@ _We don't know what we're doing!_
 
   * Vivien Chang 
   * Jennifer Zysk
-
 ----
+
+## Pessimistic estimator
+
+"You know what the problem with rose colored glass is? When you're wearing them you can never see the red flags."
+  
+  *Stephen Pappas
