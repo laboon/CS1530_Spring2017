@@ -26,7 +26,7 @@ _//TODO Think of funny yet witty software motto_
 
 ## The Software Engineering Cowards
 
-_We don't engineer software, software engineers us!_
+_Scrum is spooky and evil and we are a'fear of it sir._
 
   * Brian Ashworth
   * John Johnson
