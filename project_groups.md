@@ -24,4 +24,13 @@ _//TODO Think of funny yet witty software motto_
 
 ----
 
+## The Software Engineering Cowards
 
+_We don't engineer software, software engineers us!_
+
+  * Brian Ashworth
+  * John Johnson
+  * Edwin Mellet
+  * Aaron Tamenne
+
+----
