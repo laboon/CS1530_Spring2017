@@ -48,3 +48,11 @@ _We don't know what we're doing!_
 _"You know what the problem with rose colored glass is? When you're wearing them you can never see the red flags."_
   
   *Stephen Pappas
+  
+## Quick and Agile Scrumbags (QAS)
+
+_"PROGRAMMER? I HARDLY KNOW HER"_
+  
+  *Timothy Kang
+  *Erick Wright
+  *George Mattesi
