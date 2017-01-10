@@ -34,3 +34,12 @@ _We don't engineer software, software engineers us!_
   * Aaron Tamenne
 
 ----
+
+## Cool People
+
+_We don't know what we're doing!_
+
+  * Vivien Chang 
+  * Jennifer Zysk
+
+----
