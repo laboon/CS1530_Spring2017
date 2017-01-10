@@ -24,4 +24,9 @@ _//TODO Think of funny yet witty software motto_
 
 ----
 
+## Cool People
 
+_We don't know what we're doing!_
+
+  * Vivien Chang 
+  * Jennifer Zysk
