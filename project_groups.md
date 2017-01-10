@@ -39,7 +39,8 @@ _We don't engineer software, software engineers us!_
 
 _We don't know what we're doing!_
 
-  * Vivien Chang 
+  * Vivien Chang
   * Jennifer Zysk
+  * Keri Bookleiner
 
 ----
