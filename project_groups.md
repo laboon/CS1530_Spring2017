@@ -82,6 +82,7 @@ _Not compiling is not an option_
 _We are not a knockoff of "The No Ideas" we swear!_
 
   * Daniel Nestor
+  * Ish Davis
 
 ----
 
