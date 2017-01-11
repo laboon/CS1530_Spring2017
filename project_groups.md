@@ -72,5 +72,15 @@ _We are not a knockoff of "The No Ideas" we swear!_
 
   * Daniel Nestor
 
+----
+
+## Nasty Women
+
+_The future is female_
+
+  * Therese Dachille
+  * Nicole Daniels
+  * Kristen Gardner
+  * Rachel McQuown
 
 ----
