@@ -21,6 +21,7 @@ _//TODO Think of funny yet witty software motto_
 
   * Nicholas Denu
   * Brandon Torchia
+  * Aleks Tapinsh
 
 ----
 
