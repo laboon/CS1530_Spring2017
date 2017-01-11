@@ -66,6 +66,12 @@ _Not compiling is not an option_
   * Kyle Plump
   * Ken Morse
 
+## The New Ideas
+
+_We are not a knockoff of "The No Ideas" we swear!_
+
+  * Daniel Nestor
+
 ----
 
 ## Nasty Women
