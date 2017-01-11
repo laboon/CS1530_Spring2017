@@ -66,4 +66,9 @@ _Not compiling is not an option_
   * Kyle Plump
   * Ken Morse
 
+
+## Overly Optimistic Coders
+_"The field mouse is fast, but the owl sees at night"_
+   
+   *Daniel Justice
 ----
