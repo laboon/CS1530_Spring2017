@@ -57,3 +57,14 @@ _"PROGRAMMER? I HARDLY KNOW HER"_
   * Timothy Kang
   * Erik Wright
   * George Mattesi
+  
+
+## The No Ideas
+
+_Not compiling is not an option_
+
+  * Matthew Turley
+  * Kyle Plump
+  * Ken Morse
+
+----
