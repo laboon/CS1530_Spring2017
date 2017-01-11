@@ -57,7 +57,7 @@ _"You know what the problem with rose colored glass is? When you're wearing them
 _"PROGRAMMER? I HARDLY KNOW HER"_
 
   * Timothy Kang
-  
+  * Daniel Justice
 ## The No Ideas
 
 _Not compiling is not an option_
