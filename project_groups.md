@@ -50,16 +50,14 @@ _"You know what the problem with rose colored glass is? When you're wearing them
   
   * Stephen Pappas
   * Pulkit Mittal
+  * Steve Roomberg
   
 ## Quick and Agile Scrumbags (QAS)
 
 _"PROGRAMMER? I HARDLY KNOW HER"_
-  
-  * Timothy Kang
-  * Erik Wright
-  * George Mattesi
-  
 
+  * Timothy Kang
+  
 ## The No Ideas
 
 _Not compiling is not an option_
