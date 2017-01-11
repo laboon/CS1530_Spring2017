@@ -67,3 +67,14 @@ _Not compiling is not an option_
   * Ken Morse
 
 ----
+
+## Nasty Women
+
+_The future is female_
+
+  * Therese Dachille
+  * Nicole Daniels
+  * Kristen Gardner
+  * Rachel McQuown
+
+----
