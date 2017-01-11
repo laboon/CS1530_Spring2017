@@ -44,20 +44,27 @@ _We don't know what we're doing!_
   * Jennifer Zysk
   * Keri Bookleiner
 
+---
+
 ## Pessimistic Estimator
 
 _"You know what the problem with rose colored glass is? When you're wearing them you can never see the red flags."_
-  
-  * Stephen Pappas
+
+  * Stephen Pappas
   * Pulkit Mittal
   * Steve Roomberg
-  
+
+---
+
 ## Quick and Agile Scrumbags (QAS)
 
 _"PROGRAMMER? I HARDLY KNOW HER"_
 
   * Timothy Kang
   * Daniel Justice
+
+---
+  
 ## The No Ideas
 
 _Not compiling is not an option_
@@ -65,6 +72,8 @@ _Not compiling is not an option_
   * Matthew Turley
   * Kyle Plump
   * Ken Morse
+
+---
 
 ## The New Ideas
 
