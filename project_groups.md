@@ -54,6 +54,6 @@ _"You know what the problem with rose colored glass is? When you're wearing them
 
 _"PROGRAMMER? I HARDLY KNOW HER"_
   
-  *Timothy Kang
-  *Erick Wright
-  *George Mattesi
+  * Timothy Kang
+  * Erik Wright
+  * George Mattesi
