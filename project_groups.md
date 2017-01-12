@@ -49,6 +49,7 @@ _We don't know what we're doing!_
 ## Pessimistic Estimator
 
 _"You know what the problem with rose colored glass is? When you're wearing them you can never see the red flags."_
+_"Java is to JavaScript as Car is to Carpet."_
 
   * Stephen Pappas
   * Pulkit Mittal
