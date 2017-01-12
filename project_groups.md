@@ -17,11 +17,13 @@ _We don't engineer software, software engineers us!_
 
 ## The Dining Philosophers
 
-_//TODO Think of funny yet witty software motto_
+_//TODO Review witty software motto at first sprint meeting._
+_We code, therefore we are_
 
   * Nicholas Denu
   * Brandon Torchia
   * Aleks Tapinsh
+  * Audrey Ann Blakely
 
 ----
 
