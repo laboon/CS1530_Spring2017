@@ -56,6 +56,7 @@ _"Java is to JavaScript as Car is to Carpet."_
   * Stephen Pappas
   * Pulkit Mittal
   * Steve Roomberg
+  * Henrique Machado
 
 ---
 
