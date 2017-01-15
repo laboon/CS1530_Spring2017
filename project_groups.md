@@ -45,6 +45,7 @@ _We don't know what we're doing!_
   * Vivien Chang
   * Jennifer Zysk
   * Keri Bookleiner
+  * Max Garber
 
 ---
 
