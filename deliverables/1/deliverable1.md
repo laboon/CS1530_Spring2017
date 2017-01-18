@@ -40,7 +40,7 @@ User stories should flow from the needs of the customer.  Your discussions with 
 
 The number of user stories will vary based on the project, but it should be at least eight at the VERY minimum.  If there are fewer than eight stories, the project may be too small or your user stories too big.
 
-The walking skeleton __must__ compile and show a basic UI for the application.  It should follow the general outline of a walking skeleton as discussed in GOOSGBT (specifically, it should .  You can have more functionality if you like, but it is essential that your program compiles, runs and displays a basic UI without error!
+The walking skeleton __must__ compile and show a basic UI for the application.  It should follow the general outline of a walking skeleton as discussed in GOOSGBT (specifically, it just needs to display the basic outline of a frame and have at least one test) .  You can have more functionality if you like, but it is essential that your program compiles, runs and displays a basic UI without error!
 
 The walking skeleton __must__ be able to run on __everybody's__ computer!  Everybody should have access to the repository on GitHub and able to make commits by the end of this sprint.
 
