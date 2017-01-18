@@ -105,3 +105,13 @@ _The future is female_
   * Rachel McQuown
 
 ----
+
+## $team
+
+_//TODO whitty slogen_
+
+  * Peter McCloskey
+  * Guiseppe Zielinski
+  * Jason Tucker
+  * Jennifer Fang
+  * Michael Oles
