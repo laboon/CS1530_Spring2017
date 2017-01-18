@@ -64,4 +64,15 @@ Further details on what other features, functionality, etc. may be found by inte
 
 ## Other
 
+I recommend you use the Java Swing framework for the graphical user interface (this is not technically necessary, but many students have already learned Swing for their CS0401 class, and I can help you with it).  You can use the following repository to either brush up on your Swing or learn it on your own: https://github.com/laboon/GameOfLife This contains a graphical version of Conway's Game of Life.
+
+The following files from my CS0401 class may also be helpful as examples:
+
+1. Frames - https://github.com/laboon/cs0401/blob/master/sample_code/FrameDemo.java
+1. Panels - https://github.com/laboon/cs0401/blob/master/sample_code/PanelDemo.java and https://github.com/laboon/cs0401/blob/master/sample_code/PanelDemo2.java
+2. Extending Panels - https://github.com/laboon/cs0401/tree/master/sample_code/extended_jpanel
+3. Creating and Interacting with Buttons - https://github.com/laboon/cs0401/blob/master/sample_code/ButtonDemo.java
+4. Creating a Grid Layout - https://github.com/laboon/cs0401/blob/master/sample_code/GridDemo.java
+5. Dynamically Changing A Button - https://github.com/laboon/cs0401/blob/master/sample_code/NameChangeButtonDemo.java
+
 Please feel free to email me or come to office hours to discuss any problems you have.
