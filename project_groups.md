@@ -79,6 +79,7 @@ _Not compiling is not an option_
   * Matthew Turley
   * Kyle Plump
   * Ken Morse
+  * Matthew Strayhorn
 
 ---
 
