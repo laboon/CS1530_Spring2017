@@ -91,6 +91,8 @@ _We are not a knockoff of "The No Ideas" we swear!_
   * Daniel Nestor
   * Ish Davis
   * Nathan Anuskiewicz
+  * Jason Tucker
+  * Austin Marcus
 
 ----
 
@@ -104,3 +106,13 @@ _The future is female_
   * Rachel McQuown
 
 ----
+
+## $team
+
+_//TODO whitty slogen_
+
+  * Peter McCloskey
+  * Guiseppe Zielinski
+  * Jason Tucker
+  * Jennifer Fang
+  * Michael Oles
