@@ -69,6 +69,7 @@ _"The Field Mouse is fast, but the Owl sees at night."_
   * Timothy Kang
   * Daniel Justice
   * George Mattesi
+  * Zach Gannon
 
 ---
   
@@ -79,6 +80,7 @@ _Not compiling is not an option_
   * Matthew Turley
   * Kyle Plump
   * Ken Morse
+  * Matthew Strayhorn
 
 ---
 
@@ -88,6 +90,7 @@ _We are not a knockoff of "The No Ideas" we swear!_
 
   * Daniel Nestor
   * Ish Davis
+  * Nathan Anuskiewicz
 
 ----
 
