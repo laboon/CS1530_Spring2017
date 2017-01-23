@@ -132,7 +132,7 @@ Before you can compile, add a ButtonListener.  In our case, we will start with a
 
 ```
 
-Their default text on the button is "_" (the String argument to the JButton constructor).  When a user presses a button, the associated ActionListener for the clicked button will have its actionPerformed(ActionEvent e) method called.  We associated the listener with our button when we did the `_buttons[j].addActionListener(buttonListener);` statement.  Now when a button is pressed, the actionPerformed event actions take place.  If the text was a "_", it will be changed to an "X"; otherwise, it will be set back to "_".
+Their default text on the button is `"_"` (the String argument to the JButton constructor).  When a user presses a button, the associated ActionListener for the clicked button will have its actionPerformed(ActionEvent e) method called.  We associated the listener with our button when we did the `_buttons[j].addActionListener(buttonListener);` statement.  Now when a button is pressed, the actionPerformed event actions take place.  If the text was a `"_"`, it will be changed to an `"X"`; otherwise, it will be set back to `"_"`.
 
 Using the above code as a base, create one button and listener for the other panel in the layout (`newPanel`).
 
