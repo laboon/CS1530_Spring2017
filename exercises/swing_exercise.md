@@ -27,7 +27,7 @@ public class TicTacToe {
     JFrame _frame = new JFrame("Tic-Tac-Toe");
 
     public static void main(String[] args) {
-
+       
     }
 
 }
@@ -35,7 +35,15 @@ public class TicTacToe {
 
 You will note that our class is a JFrame, and not a Frame.  Frames are AWT (Abstract Window Toolkit) classes; JFrames are Swing classes.  Swing is a GUI framework built on top of AWT (which is much nicer, trust me).  You will find that most classes that start with J have an equivalent J-less class in AWT.
 
-The last line of the main method should let the frame be visible.  We can generate all of the data/elements/etc. "behind the scenes" without displaying them to the user, and then show them the finished version.  If you find that a window is not updating, it may be that you need to "force" a refresh by setting the frame to visible again.  It won't hurt anything if you do it more times than necessary (except when it comes to performance).
+We will do most of the work in the constructor; our main method should just make a new instance of the TicTacToe class.
+
+```java
+    public static void main(String[] args) {
+	new TicTacToe();
+    }
+```
+
+The last line of the constructor should let the frame be visible.  We can generate all of the data/elements/etc. "behind the scenes" without displaying them to the user, and then show them the finished version.  If you find that a window is not updating, it may be that you need to "force" a refresh by setting the frame to visible again.  It won't hurt anything if you do it more times than necessary (except when it comes to performance).
 
 ```java
 	// Refresh window - otherwise we will not be able to see it
@@ -43,17 +51,15 @@ The last line of the main method should let the frame be visible.  We can genera
 	_frame.setVisible(true);
 ```
 
-You can set the size of the frame by using the `setSize(width, height)` method on the frame.  `width` and `height` are specified in pixels.  The size of the frame is up to you.  Figure out what works best on your screen.  This can be done in the main method.
+You can set the size of the frame by using the `setSize(width, height)` method on the frame.  `width` and `height` are specified in pixels.  The size of the frame is up to you.  Figure out what works best on your screen.  This can be done in the constructor.
 
 ```java
-    public static void main(String[] args) {
-    	   _frame.setSize(800, 600);
+    	   _frame.setSize(400, 400);
 	   _frame.setVisible(true);
 
-    }
 ```
 
-You can set what should happen the user closes the window.  In many cases, we will want the program to exit; in others, we would want other events to occur.  For example, if you have multiple Firefox windows open, and you close one, you would not want the whole program to exit!  In our case, though, since we will have only one window and we will not need it to run in the background.  You can also do this in the main method.
+You can set what should happen the user closes the window.  In many cases, we will want the program to exit; in others, we would want other events to occur.  For example, if you have multiple Firefox windows open, and you close one, you would not want the whole program to exit!  In our case, though, since we will have only one window and we will not need it to run in the background.  You can also do this in the constructor.
 
 ```java
 	_frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -65,12 +71,12 @@ Now, we want to have two sections of the frame.  Each of these sections is calle
 
 ```java
 	JPanel _ttt = new JPanel();
-	JPanel _newPanel = newJPanel();
+	JPanel _newPanel = new JPanel();
 ```
 
 The top panel is going to be a grid layout (that is, it will have all of its elements in a two-dimensional grid, just like a Tic-Tac-Toe board).  Each spot in the grid will be a button.  The bottom panel is only going to have one button in it, so it doesn't really matter what layout we use.
 
-In the main method, set their respective layouts:
+In the constructor, set their respective layouts:
 
 ```java
 	_ttt.setLayout(new GridLayout(3, 3));
@@ -79,7 +85,7 @@ In the main method, set their respective layouts:
 
 The Grid layout will position any elements (e.g. textboxes, buttons, labels, etc.) in a 3x3 layout.  The FlowLayout will just position the elements one after another, like letters in a line of text.  Also like a line of text, when no more elements fit, it will go "down" to the next line.
 
-Now in the main method, position them like so:
+Now in the constructor, position them like so:
 
 ```java
 
@@ -92,6 +98,14 @@ Now in the main method, position them like so:
 
 
 Create nine buttons to put in the 3x3 layout and add them.  You can do this with a simple for loop:
+
+```java
+public class TicTacToe {
+    JButton[] _buttons = new JButton[9];
+...
+```
+
+In the constructor:
 
 ```java
 	for (int j=0; j<9; j++) {
@@ -109,7 +123,7 @@ Create nine buttons to put in the 3x3 layout and add them.  You can do this with
 
 This will create nine buttons along with their _listeners_ - that is, objects that "listen" for an event to take place, and then execute code when it happens.  We will fill in the listeners soon.
 
-Before you can compile, add a ButtonListener.  In our case, we will start with a button which just changes to X when it is pressed.
+Before you can compile, add a ButtonListener.  This can be an internal (non-public) class.  In our case, we will start with a button which just changes to X when it is pressed.
 
 ```java
     class ButtonListener implements ActionListener {
