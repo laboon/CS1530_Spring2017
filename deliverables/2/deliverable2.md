@@ -38,6 +38,8 @@ Remember that your main goal is to deliver a working version of the software (i.
 
 If I have any questions on the code, I may ask *any* individual member to show me the code running on their computer.  Therefore, if anyone has a problem running the current version of the code, that fact needs to be included as a defect.  Failure to have a working version of the project at end of sprint may mean a drastically lower score for the project.
 
+Code should not be merged to master without the approval of at least ONE other member of the team.  Please do this using pull requests and have the reviewer comment on the PR itself.  We will go over this in class.
+
 #### Format for cover page:
 
 The cover page should include:
