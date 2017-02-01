@@ -59,10 +59,10 @@ Group Grading:
 1. Description of Sprint: 10% of grade
 1. Listing of Defects: 15% of grade
 1. Code and Tests: 50% of grade
-  a. Functionality: New game, pieces can move (even if not all legal moves/captures/etc. implemented), black/white take turns
-  b. Code: All methods should be commented (with JavaDoc or similar)
-  c. Tests: There are unit tests for any "computational" methods (i.e. those that do not display data to the screen)
-  d. Code quality: Try to separate computation from display, good method/variable names, code is easy to understand, etc.
+  1. Functionality: New game, pieces can move (even if not all legal moves/captures/etc. implemented), black/white take turns
+  1. Code: All methods should be commented (with JavaDoc or similar)
+  1. Tests: There are unit tests for any "computational" methods (i.e. those that do not display data to the screen)
+  1. Code quality: Try to separate computation from display, good method/variable names, code is easy to understand, etc.
 
 
 Yes, grammar and spelling count. Points will be deducted for more than one grammatical or spelling error per section.
@@ -77,4 +77,4 @@ Defects should include at least the following information:
 
 ### Other
 
-Please feel free to email me at bill@billlaboon.com or come to office hours to discuss any problems you have.
+Please feel free to email me or come to office hours to discuss any problems you have.
