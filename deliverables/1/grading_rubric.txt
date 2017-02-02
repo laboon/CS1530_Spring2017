@@ -1,0 +1,55 @@
+Grading Rubric for D1
+
+* User Stories: 25% of grade
+
+User Stories in correct format:                        _____ / 5
+  * As a.. <role> I want.. <function>  So that.. <reason>
+  * -2 for each one not in correct format
+  
+User stories mention USER needs/
+from user perspective:                                 _____ / 15
+  * Not from a developer perspective
+  * Reference specific functionality
+  * -3 for each one not from user perspective
+
+Clearly written:                                       _____ / 5
+  * No typos / misspellings / etc
+  * Understandable to reader (incl. clear sentence structure)
+
+If < 8 user stories, -5 for each one less than 8
+
+* Walking Skeleton: 50% of grade
+
+Gradle/git setup correct                               ______ / 20
+  * gradle {build,test,clean,run} all work w/o error
+  * -5 for each that fails/returns an error
+
+At least one passing unit test:                        ______ / 15
+  * -5 if there are test, but contain failures
+
+GUI displays:                                          ______ / 15
+  * A GUI should appear when "gradle run" is typed
+  * If none, -15
+
+* Description of Decisions: 25% of grade
+
+Description of background research:                    ______ / 6
+
+Description of prioritization of user stories:         ______ / 6
+
+Describe effective/ineffective item(s) in sprint:      ______ / 8
+
+General quality:                                       ______ / 5
+  * No typos (-1 for each past the first)
+  * No grammatical errors (-1 for each past the first)
+  * Generally easy to read
+
+-5 if this is not ~1 page of text; -15 if less than half a page
+
+Other:
+
+Improper format for title page: 
+  * -2 does not list Scrum Master
+  * -5 does not list GitHub usernames of team members
+
+Total:                                               ____ / 100
