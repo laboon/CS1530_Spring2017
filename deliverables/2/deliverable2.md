@@ -44,9 +44,9 @@ Code should not be merged to master without the approval of at least ONE other m
 
 The cover page should include:
 
-1. The name of the project
+1. The name of the team
 1. The names of the people in the group, and their GitHub usernames
-1. A link to the 
+1. A link to the GitHub repo
 1. The date that it is due (15 FEB 2017)
 1. The title "CS 1530 - SPRINT 2 DELIVERABLE"
 
