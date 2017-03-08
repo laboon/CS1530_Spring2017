@@ -24,9 +24,7 @@ Listing of Defects: 15% of grade
 At least one defect listed:                               _____ / 5
 
 Proper format used:                                       _____ / 5
-  * Reproduction Steps
-  * Expected Behavior
-  * Observed Behavior
+  * Reproduction Steps, Expected, Observed
 
 If > 1 defect listed, and at least one is of proper format, maximum
 points off is -3
