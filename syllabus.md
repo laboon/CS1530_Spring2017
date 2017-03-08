@@ -117,31 +117,31 @@ Note that this syllabus is subject to change, but we will cover all of these top
 #### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
 #### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
 
-### Class 2 - Integration and the Software Pipeline
-  * Classical models of integration
-  * Continuous Integration
-  * SPRINT 4 ENDS; SPRINT 5 BEGINS
-
-## WEEK 12 (20 and 22 Mar)
-
 ### Class 1 - Programming with Concurrency
   * Why program with threads?
   * Threads vs Processes
   * Pitfalls
+  * SPRINT 4 ENDS; SPRINT 5 BEGINS
 
-### Class 2 - Concurrency in Java
+## WEEK 12 (20 and 22 Mar)
+
+### Class 1 - Concurrency in Java
   * java.util.concurrent
   * Thread-safe programming in Java
   * Common patterns and anti-patterns
-  
+
+### Class 2 - Concurrency Exercise
+  * EXERCISE: Concurrency
+
 ## WEEK 13 (27 and 29 Mar)
 
-### Class 1 - Using Design Patterns
-#### ___READING: Freeman/Pryce, Chapters 26 - 27__
-  * Using "Gang of Four" classic design patterns
+### Class 1 - Integration and the Software Pipeline
+  * Classical models of integration
+  * Continuous Integration
 
-### Class 2 - Design Patterns and Legacy Code
-  * EXERCISE: Design Patterns and Legacy Code
+### Class 2 - Using Design Patterns
+#### ___READING: Freeman/Pryce, Chapters 26 - 27__
+  * EXERCISE: Design Patterns
   * SPRINT 5 ENDS; SPRINT 6 BEGINS
 
 ## WEEK 14 (3 and 5 Apr)
