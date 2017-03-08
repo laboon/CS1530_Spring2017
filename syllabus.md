@@ -113,25 +113,26 @@ Note that this syllabus is subject to change, but we will cover all of these top
 
 ## WEEK 11 (13 and 15 Mar)
 
-### Class 1 - Legacy Code, Large Systems, and Working On Other People's Code
-#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
-#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
-
 ### Class 1 - Programming with Concurrency
   * Why program with threads?
   * Threads vs Processes
   * Pitfalls
-  * SPRINT 4 ENDS; SPRINT 5 BEGINS
-
-## WEEK 12 (20 and 22 Mar)
 
 ### Class 1 - Concurrency in Java
   * java.util.concurrent
   * Thread-safe programming in Java
   * Common patterns and anti-patterns
+  * SPRINT 4 ENDS; SPRINT 5 BEGINS
 
-### Class 2 - Concurrency Exercise
+## WEEK 12 (20 and 22 Mar)
+
+### Class 1 - Concurrency Exercise
   * EXERCISE: Concurrency
+
+### Class 2 - Legacy Code, Large Systems, and Working On Other People's Code
+#### __OPTIONAL READING: Working Effectively With Legacy Code by Michael Feathers (http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf)__
+#### __OPTIONAL READING: Testable Java by Michael Feathers (http://www.objectmentor.com/resources/articles/TestableJava.pdf)__
+
 
 ## WEEK 13 (27 and 29 Mar)
 
