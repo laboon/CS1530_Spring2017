@@ -49,9 +49,6 @@ Special squares distinct                                  _____ / 5
 All methods should be commented (with JavaDoc or similar) _____ / 5
 
 Tests:                                                    _____ / 10
-  * Unit tests exist for computational methods
-  * Tests are valid / have assertions
-  * Tests explain what they are doing
    
 General code quality:                                     _____ / 5
 
