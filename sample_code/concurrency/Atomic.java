@@ -17,7 +17,7 @@ public class Atomic {
     
     public static Long _sl = new Long(5);
 
-    public static final long NUM_TIMES = 10000000;
+    public static final long NUM_TIMES = 100000;
     
     public static void main(String[] args) {
 
@@ -50,7 +50,7 @@ public class Atomic {
 	    t2.join();
 	} catch (InterruptedException iex) { }
 	System.out.println("Atomic long is: " + _a);
-	System.exit(0);
+	// System.exit(0);
 	// Do the same thing, with a regular Long
 
 	Thread t3 = new Thread(() -> {
