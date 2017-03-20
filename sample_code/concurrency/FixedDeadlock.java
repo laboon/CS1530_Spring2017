@@ -67,19 +67,21 @@ public class FixedDeadlock {
 	
 	System.out.println("Everything went well");
     }
+
+    // Two filler classes, just showing example resources to lock on
+	    
+    // class Printer {
+    // 	public void print(String x) {
+    // 	    System.out.println("Printing, from " + x);
+    // 	}
+    // }
+
+    // class Scanner {
+    // 	public void scan(String x) {
+    // 	    System.out.println("Scanning, from " + x);
+    // 	}
+    // }
+
     
 }
 
-// Two filler classes, just showing example resources to lock on
-	    
-class Printer {
-    public void print(String x) {
-	System.out.println("Printing, from " + x);
-    }
-}
-
-class Scanner {
-    public void scan(String x) {
-	System.out.println("Scanning, from " + x);
-    }
-}

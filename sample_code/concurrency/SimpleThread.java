@@ -31,7 +31,7 @@ public class SimpleThread {
 	for (int j=0; j < 100; j++) {
 	    System.out.println("MAIN TASK (" + j + ")");
 	    try {
-		Thread.sleep(20);
+	    	Thread.sleep(20);
 	    } catch (InterruptedException iex) { }
 	}
     }
@@ -46,7 +46,7 @@ public class SimpleThread {
 	for (int j = 0; j < 100; j++) {
 	    System.out.println("BACKGROUND TASK(" + j + ")");
 	    try {
-		Thread.sleep(20);
+	    	Thread.sleep(20);
 	    } catch (InterruptedException iex) { }
 
 	}
