@@ -1,0 +1,42 @@
+Grading Rubric for D2
+
+Listing of Completed User Stories And Story Points: 15% of grade
+
+Contains actual completed user stories                    _____ / 10
+  * Meet Definition of Done (coded, documented, tested, integrated)
+
+Story points included:                                    _____ / 5
+
+Details of Why Those User Stories Were Chosen: 10% of grade
+
+Provide explanation for why they were chosen:             _____ / 8
+
+General quality (no typos, etc.)                          _____ / 2
+
+Description of Sprint: 30% of grade
+
+Provides a good description of work:                    _____ / 10
+
+Describes why it was chosen:                            _____ / 10
+
+General quality (no typos, etc.)                        _____ / 10
+
+Code and Tests: 70% of grade
+
+Picked relevant work:                                   _____ / 15
+  * Comments
+  * Tests added
+  * Feature added
+  * Defect fixed
+  * Other
+
+Quality:                                                _____ / 55
+  * If comments, whole system should be well-commented
+  * If tests, cover all equivalence classes
+  * If feature added, feature
+  * If defect fixed, was fixed appropriately
+
+Miscellaneous:
+
+
+Total:                                                    ____ / 100
