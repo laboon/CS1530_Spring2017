@@ -33,7 +33,7 @@ Picked relevant work:                                   _____ / 15
 Quality:                                                _____ / 55
   * If comments, whole system should be well-commented
   * If tests, cover all equivalence classes
-  * If feature added, feature
+  * If feature added, feature works
   * If defect fixed, was fixed appropriately
 
 Miscellaneous:
