@@ -86,11 +86,11 @@ Group Grading:
 1. Description of Sprint: 10% of grade
 1. Listing of Defects: 10% of grade
 1. Code and Tests: 55% of grade
-  1. Functionality: All Hnefatafl rules implemented + at least one additional piece of functionality
-  1. No regressions: Functionality which worked in a previous sprint should still work in this one
-  1. Code: All methods should be commented (with JavaDoc or similar)
-  1. Tests: There are unit tests for any "computational" methods.
-  1. Code quality: Try to separate computation from display, good method/variable names, code is easy to understand, etc.
+  * Functionality: All Hnefatafl rules implemented + at least one additional piece of functionality
+  * No regressions: Functionality which worked in a previous sprint should still work in this one
+  * Code: All methods should be commented (with JavaDoc or similar)
+  * Tests: There are unit tests for any "computational" methods.
+  * Code quality: Try to separate computation from display, good method/variable names, code is easy to understand, etc.
 1. Presentation: 20% of grade
 
 Yes, grammar and spelling count. Points will be deducted for more than one grammatical or spelling error per section.
