@@ -1,0 +1,73 @@
+Grading Rubric for D5
+
+Listing of Completed User Stories And Story Points: 10% of grade
+
+Contains actual completed user stories                    _____ / 8
+  * Meet Definition of Done (coded, documented, tested, integrated)
+
+Story points included:                                    _____ / 2
+
+Description of Sprint: 15% of grade
+
+Provides a good description of sprint:                    _____ / 12
+
+General quality (no typos, etc.)                          _____ / 3
+
+Listing of Defects: 15% of grade
+
+At least one defect listed:                               _____ / 5
+
+Proper format used:                                       _____ / 5
+  * Reproduction Steps, Expected, Observed
+
+If > 1 defect listed, and at least one is of proper format, maximum
+points off is -3
+
+Defect is readable/understandable/valid:                  _____ / 5
+
+If > 1 defect listed, and at least one is understandable/valid,
+maximum points off is -2
+
+Code and Tests: 60% of grade
+
+No regression:
+  * Legal moves can be made (-10 if not)
+  * Illegal moves cannot be made (-6 if not)
+  * Both black and white can win (-5 for each if not)
+
+New Functionality:
+
+Captures:                                                 ____ / 10
+  * Pieces can be captured in "normal" way (-8 if not)
+  * Pieces can be captured using special squares (-3 if not)
+
+File Save:                                                ____ / 7
+  * Board position can be saved to file (-7 if not)
+
+File Load:                                                ____ / 8
+  * Saved board position can be loaded (-8 if not)
+  * Empty file is handled gracefully (-3 if not)
+  * Corrupt file is handled gracefully (-3 if not)
+
+Countdown Timer implemented:                              ____ / 13
+  * Running in a separate thread: (-9 if not)
+    (note: Swing Timer is in separate thread implicitly)
+  * 5 minute countdown by default (-5 if not)
+  * Countdown only takes place on player's move (-8 if not)
+  * 3 seconds added per move (-5 if not)
+
+   
+All methods should be commented (with JavaDoc or similar) _____ / 5
+
+Tests:                                                    _____ / 10
+   
+General code quality:                                     _____ / 7
+
+Bonus:
+  Configurable total time: +3
+  Configurable per-move time: +2
+
+Miscellaneous:
+
+
+Total:                                                    ____ / 100
