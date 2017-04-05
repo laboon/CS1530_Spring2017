@@ -1,6 +1,6 @@
 ## Midterm 2 Study Guide
 
-__Reminder: Midterm 2 is December 8th!__
+__Reminder: Midterm 2 is 12 APR!__
 
 ### Software Design
 * Why is software design a "wicked" process?
