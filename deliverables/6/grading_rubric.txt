@@ -1,0 +1,68 @@
+Grading Rubric for D6
+
+Listing of Completed User Stories And Story Points: 5% of grade
+
+Contains actual completed user stories                    _____ / 4
+  * Meet Definition of Done (coded, documented, tested, integrated)
+
+Story points included:                                    _____ / 1
+
+Description of Sprint: 10% of grade
+
+Provides a good description of sprint:                    _____ / 7
+
+General quality (no typos, etc.)                          _____ / 3
+
+Listing of Defects: 10% of grade
+
+At least one defect listed:                               _____ / 5
+  * NOTE: For final sprint, if NO defects found by
+    grader, and "No defects" are listed, they can
+    get full credit for this and next  marking "None" here
+
+Proper format used:                                       _____ / 5
+  * Reproduction Steps, Expected, Observed
+  * Defect is readable/understandable/valid:
+
+If > 1 defect listed, and at least one is understandable/valid,
+maximum points off is -2
+
+Code and Tests: 55% of grade
+
+Final Functionality:                                      _____ / 30
+  * Legal moves can be made (-10 if not)
+  * Illegal moves cannot be made (-5 if not)
+  * Both black and white can win (-5 for each if not)
+  * Files can be saved/loaded (-5 each, if not)
+  * Pieces can be captured in normal way (-8 if not)
+  * Shield Wall works (-3 if not)
+  * Surround-Loss works (-3 if not)
+
+Two easy or one hard pieces of functionality implemented: _____ / 10
+  * Easy
+    * Change colors
+    * Display # pieces left
+    * Display possible moves
+    * Use loadable images for pieces
+  * Hard
+    * Display "good" moves
+    * Play against AI
+    * Training mode
+  * Others possible!
+   
+All methods should be commented (with JavaDoc or similar) _____ / 5
+
+Tests:                                                    _____ / 5
+  * Additional tests added - do not check all of them,
+    only that they continued to test
+   
+General code quality:                                     _____ / 5
+
+Presentation:                                             _____ / 20
+
+Bonus:
+
+Miscellaneous:
+
+
+Total:                                                    ____ / 100
